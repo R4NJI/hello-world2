@@ -11,3 +11,8 @@ My new line about pushing branch
 New line concerning update from cloning
 
 Test cloning
+
+
+My editing is here
+Just check out here please
+It's important
