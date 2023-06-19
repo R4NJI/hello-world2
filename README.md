@@ -9,3 +9,5 @@ It now includes steps for Github
 My new line about pushing branch
 
 New line concerning update from cloning
+
+Test cloning
